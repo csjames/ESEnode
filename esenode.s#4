@@ -7590,13 +7590,6 @@ Radiall&lt;p&gt;</description>
 <wire x1="256.54" y1="71.12" x2="259.08" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="LED1" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PIO1_21"/>
-<wire x1="124.46" y1="88.9" x2="129.54" y2="88.9" width="0.1524" layer="91"/>
-<label x="132.08" y="88.9" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="ANT" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="1"/>
